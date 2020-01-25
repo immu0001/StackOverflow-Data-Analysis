@@ -12,7 +12,7 @@ This is a part of the class work for udacity data scientist nano degree
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*..
 
 ## Project Motivation<a name="motivation"></a>
 
@@ -22,7 +22,7 @@ For this project, I was interestested in using Stack Overflow data from 2017 to 
 2. What factors about an individual contributed to salary?
 3. How bias played a role in the suggestions of developers for how to break into the field?
 4. What was the state of bootcamps for assisting individuals with breaking into developer roles?
-5. How were bootcamps assisting with increasing diversity in tech careers?
+5. How were bootcamps assisting with increasing diversity in tech careers!?
 
 The full set of files related to this course are owned by Udacity, so they are not publicly available here.  However, you can see pieces of the analysis here.  This README also serves as a template for students to follow in creating their own project README files.
 
